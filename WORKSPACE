@@ -188,7 +188,7 @@ http_file(
     name = "busybox",
     executable = True,
     sha256 = "b51b9328eb4e60748912e1c1867954a5cf7e9d5294781cae59ce225ed110523c",
-    urls = ["https://busybox.net/downloads/binaries/1.27.1-i686/busybox"],
+    urls = ["https://busybox.net/downloads/binaries/1.30.0-i686/busybox_LINUX64"],
 )
 
 # Docker rules.
