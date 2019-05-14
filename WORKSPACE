@@ -187,7 +187,7 @@ http_archive(
 http_file(
     name = "busybox",
     executable = True,
-    sha256 = "b51b9328eb4e60748912e1c1867954a5cf7e9d5294781cae59ce225ed110523c",
+    sha256 = "33d0717fb3f79dc05651295553cec1e10ea148b6c61a8c8195ed050429289bd3",
     urls = ["https://busybox.net/downloads/binaries/1.30.0-i686/busybox_LINUX64"],
 )
 
